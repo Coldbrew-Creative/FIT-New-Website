@@ -1,8 +1,8 @@
 $(document).ready(function() {
-    console.log('loaded');
     $('.vehicles').on('click', function() {
         var vehicleName = $(this).attr('id');
-        var vehicleImg = $(this).children('img').attr('src');
+        // var vehicleImg = $(this).children('img').attr('src');
+        var vehicleImg = '/public/img/vehicles/' + vehicleName + '-min.jpg';
         var vehiclesThumnails = getMassImagesForVehicle(vehicleName);
         getModalData(vehicleName, vehicleImg, vehiclesThumnails);
     });
@@ -146,13 +146,11 @@ $(document).ready(function() {
      * Creates a DIV with vehicle image as child
      */
     function createDivWithImg(img) {
-        var $div = $('<div>', {class: 'col-xs-6'});
         var $img = $('<img>', {
             class: 'img-responsive modal-vehicle-thumbnail',
             src: img
         });
-        $div.append($img);
-        return $div;
+        return $img;
     }
 
     /**
