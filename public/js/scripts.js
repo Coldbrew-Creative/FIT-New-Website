@@ -3,8 +3,7 @@ $(document).ready(function() {
         var vehicleName = $(this).attr('id');
         // var vehicleImg = $(this).children('img').attr('src');
         var vehicleImg = '/public/img/vehicles/' + vehicleName + '-min.jpg';
-        var vehiclesThumnails = getMassImagesForVehicle(vehicleName);
-        getModalData(vehicleName, vehicleImg, vehiclesThumnails);
+        getModalData(vehicleName, vehicleImg);
     });
 
     /**
@@ -59,9 +58,9 @@ $(document).ready(function() {
     /**
      * Gets the data for the vehicle
      */
-    function getModalData(vehicleName, vehicleImg, vehiclesThumnails) {
+    function getModalData(vehicleName, vehicleImg) {
         var title = setModalTitle(vehicleName);
-        setModalData(title, vehicleImg, vehiclesThumnails);
+        setModalData(title, vehicleImg);
     }
 
     /**
@@ -89,7 +88,7 @@ $(document).ready(function() {
     /**
      * Sets Modal Data
      */
-    function setModalData(title, img, imgArr) {
+    function setModalData(title, img) {
         // Clear pre-existing children from 'vehicle-gallery'
         $('.vehicle-gallery').empty();
         $('#modal-vehicle-info').remove();
@@ -103,43 +102,6 @@ $(document).ready(function() {
             src: img
         });
         $('.vehicle-gallery').append($mainImg);
-        // Create DOM elements of Images
-        for (var i = 0; i < imgArr.length; i++) {
-            var $imgDiv = createDivWithImg(imgArr[i]);
-            // Apend to the vehicle gallery class
-            $('.vehicle-gallery').append($imgDiv);
-        }
-    }
-
-    /**
-     * Gets all secondary images for a vehicle
-     */
-    function getMassImagesForVehicle(vehicleName) {
-        var vehicleArr = [];
-        switch (vehicleName) {
-            case 'suburban':
-                vehicleArr = pushImagesToArr('public/img/vehicles/thumbnail/suburban-2.jpg');
-                break;
-            case 'mkt':
-                vehicleArr = pushImagesToArr('public/img/vehicles/thumbnail/mkt-2.jpg');
-                break;
-            case 'ford-transit':
-                vehicleArr = pushImagesToArr('public/img/vehicles/thumbnail/ford-transit-1.jpg', 'public/img/vehicles/thumbnail/ford-transit-2.jpg');
-                break;
-            case 'white-hummer':
-                vehicleArr = pushImagesToArr('public/img/vehicles/thumbnail/white-hummer-1.jpg', 'public/img/vehicles/thumbnail/white-hummer-in-1.jpg', 'public/img/vehicles/thumbnail/white-hummer-in-2.jpg');
-                break;
-            case 'chrysler':
-                vehicleArr = pushImagesToArr('public/img/vehicles/thumbnail/chrysler-1.jpg', 'public/img/vehicles/thumbnail/chrysler-int-1.jpg', 'public/img/vehicles/thumbnail/chrysler-int-2.jpg', 'public/img/vehicles/thumbnail/chrysler-int-3.jpg');
-                break;
-            case 'cadillac':
-                vehicleArr = pushImagesToArr('public/img/vehicles/thumbnail/cadillac-2-min.jpg', 'public/img/vehicles/thumbnail/cadillac-int-1.jpg', 'public/img/vehicles/thumbnail/cadillac-int-2.jpg');
-                break;
-            case 'pink-hummer':
-                vehicleArr = pushImagesToArr('public/img/vehicles/thumbnail/pink-hummer-1.jpg');
-                break;
-        }
-        return vehicleArr;
     }
 
     /**
@@ -151,18 +113,6 @@ $(document).ready(function() {
             src: img
         });
         return $img;
-    }
-
-    /**
-     * Push images to array
-     */
-    function pushImagesToArr() {
-        var length = arguments.length;
-        var arr = [];
-        for (var i = 0; i < length; i++) {
-            arr.push(arguments[i]);
-        }
-        return arr;
     }
 
     /**
