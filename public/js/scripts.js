@@ -127,6 +127,6 @@ $(document).ready(function() {
         });
     }
 
-    scrollToElement('#book-today', '.get-quote');
+    scrollToElement('.scroll-to-quote', '.get-quote');
     scrollToElement('#learn-more', '.services');
 });
