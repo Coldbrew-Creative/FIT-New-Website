@@ -1,0 +1,6 @@
+*.pug
+app.js
+mockup.jpg
+package.json
+public/.DS_Store
+public/scss/
