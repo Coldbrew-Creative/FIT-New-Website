@@ -3,4 +3,10 @@
 <file name="inbox.svg" server="A:/Programs/wamp64/www" local="131545664256553149" remote="131545664250000000" Dst="1" />
 <file name="location.svg" server="A:/Programs/wamp64/www" local="131545664256708560" remote="131545664250000000" Dst="1" />
 <file name="call.svg" server="A:/Programs/wamp64/www" local="131545664256543121" remote="131545664250000000" Dst="1" />
+<file name="inbox.svg" server="A:/Programs/wamp64/www/" local="131545664256553149" remote="131545664250000000" Dst="1" />
+<file name="location.svg" server="A:/Programs/wamp64/www/" local="131545664256708560" remote="131545664250000000" Dst="1" />
+<file name="call.svg" server="A:/Programs/wamp64/www/" local="131545664256543121" remote="131545664250000000" Dst="1" />
+<file name="inbox-inv.svg" server="A:/Programs/wamp64/www/" local="131545664256548136" remote="131545664250000000" Dst="1" />
+<file name="location-inv.svg" server="A:/Programs/wamp64/www/" local="131545664256703550" remote="131545664250000000" Dst="1" />
+<file name="call-inv.svg" server="A:/Programs/wamp64/www/" local="131545664256538106" remote="131545664250000000" Dst="1" />
 </dwsync>
