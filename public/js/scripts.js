@@ -36,6 +36,13 @@ $(document).ready(function() {
     /**
      * Returns the description for the vehicle
      */
+    
+    /**
+    Client wanted to remove description. I'm going to save it here just in case they ever decide to add it back 
+
+*/ 
+    
+    /**
     function getVehicleDescription(title) {
         switch (title) {
             case 'Suburban':
@@ -54,7 +61,8 @@ $(document).ready(function() {
                 return fleet.pinkHummer.desc;
         }
     }
-
+*/
+    
     /**
      * Gets the data for the vehicle
      */
@@ -73,7 +81,7 @@ $(document).ready(function() {
             case 'mkt':
                 return 'MKT';
             case 'ford-transit':
-                return 'Ford Transit';
+                return 'Party Bus';
             case 'white-hummer':
                 return 'White Hummer';
             case 'chrysler':
