@@ -46,13 +46,6 @@
 		   <div class='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
 			  <ul class='nav navbar-nav navbar-right'>
 				 <li><a class='active' href='/'>Home</a></li>
-				 <li><a href='/fleet.html'>Fleet</a></li>
-				 <li><a href='/airport.html'>Airport</a></li>
-				 <li><a href='/corporate.html'>Corporate</a></li>
-				 <li><a href='/weddings.html'>Weddings</a></li>
-				 <li><a href='/wine.html'>Wine Tours</a></li>
-				 <li><a href='/quinceanera.html'>Quinceañera</a></li>
-				 <li><a href='/prom.html'>Prom/Events</a></li>
 				 <li><a href='/contact.html'>Contact</a></li>
 			  </ul>
 		   </div>
