@@ -16,8 +16,8 @@ $(document).ready(function() {
         mkt: {
             desc: '<p id="modal-vehicle-info">Our MKT is not only a stylish car, but it gives a modern twist to the typical black car appeal. If you want to pick up more than just a black car the MKT is the car for you.</p>'
         },
-        fordTransit: {
-            desc: '<p id="modal-vehicle-info">Want to take a your colleagues to a location with out all the flashy appearance? Book our Ford Transit.</p>'
+        partyBus: {
+            desc: '<p id="modal-vehicle-info">Want to take a your colleagues to a location with out all the flashy appearance? Book our Party Bus.</p>'
         },
         whiteHummer: {
             desc: '<p id="modal-vehicle-info">Our White Hummer is not only a piece of art, but it is a classic. Want to pull up in style? Give us a call. </p>'
@@ -36,21 +36,14 @@ $(document).ready(function() {
     /**
      * Returns the description for the vehicle
      */
-    
-    /**
-    Client wanted to remove description. I'm going to save it here just in case they ever decide to add it back 
-
-*/ 
-    
-    /**
     function getVehicleDescription(title) {
         switch (title) {
             case 'Suburban':
                 return fleet.suburban.desc;
             case 'MKT':
                 return fleet.mkt.desc;
-            case 'Ford Transit':
-                return fleet.fordTransit.desc;
+            case 'Party Bus':
+                return fleet.partyBus.desc;
             case 'White Hummer':
                 return fleet.whiteHummer.desc;
             case 'Chrysler':
@@ -61,8 +54,7 @@ $(document).ready(function() {
                 return fleet.pinkHummer.desc;
         }
     }
-*/
-    
+
     /**
      * Gets the data for the vehicle
      */
