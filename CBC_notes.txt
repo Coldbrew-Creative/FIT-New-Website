@@ -1,0 +1,14 @@
+Coldbrew Creative Notes:
+-----------------------
+
+-removing the id="page-header" (where 'page' is the corporate.html, etc) to put everything in a PHP header file
+	-this was in the...
+   </head>
+   <body>
+      <!-- Service Header-->
+      <div class="col-md-12 service-header text-center" id="quinceanera-header">
+         <!-- Navbar Fixed-->
+         <nav class="navbar navbar-default">
+            <div class="container-fluid">
+
+    -section, and when removing the id it doesn't display in the header on each page
