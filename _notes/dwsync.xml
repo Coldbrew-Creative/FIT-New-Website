@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.html" server="A:/Programs/wamp64/www" local="131545711667012896" remote="131545711660000000" Dst="1" />
 <file name="airport.html" server="A:/Programs/wamp64/www/" local="131575028880712153" remote="131575028880000000" Dst="1" />
 <file name="contact.html" server="A:/Programs/wamp64/www/" local="131575028786998022" remote="131575028780000000" Dst="1" />
 <file name="corporate.html" server="A:/Programs/wamp64/www/" local="131575028959381292" remote="131575028950000000" Dst="1" />
 <file name="fleet.html" server="A:/Programs/wamp64/www/" local="131575029020433597" remote="131575029020000000" Dst="1" />
+<file name="header.php" server="A:/Programs/wamp64/www/" local="131601108317054816" remote="131601108310000000" Dst="1" />
+<file name="footer.php" server="A:/Programs/wamp64/www/" local="131601107946409004" remote="131601107940000000" Dst="1" />
+<file name="index.php" server="A:/Programs/wamp64/www/" local="131601108278622589" remote="131601108270000000" Dst="1" />
 </dwsync>
