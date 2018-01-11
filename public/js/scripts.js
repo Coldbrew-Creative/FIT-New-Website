@@ -80,7 +80,7 @@ $(document).ready(function() {
                 return 'Suburban';
             case 'mkt':
                 return 'MKT';
-            case 'ford-transit':
+            case 'party-bus':
                 return 'Party Bus';
             case 'white-hummer':
                 return 'White Hummer';

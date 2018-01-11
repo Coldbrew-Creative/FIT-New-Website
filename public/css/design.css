@@ -248,8 +248,8 @@
     -o-background-size: cover;
     background-position: center
 }
-#prom-header {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/prom.jpg");
+#events-header {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/events.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -396,8 +396,8 @@
     -o-background-size: cover;
     background-position: center
 }
-.services #service-proms {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/prom.jpg");
+.services #service-eventss {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/events.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
