@@ -12,3 +12,7 @@ Coldbrew Creative Notes:
             <div class="container-fluid">
 
     -section, and when removing the id it doesn't display in the header on each page
+    -actually..... I might be wrong.. just taking note in case!
+    -Doug
+
+    

@@ -511,9 +511,9 @@
     -o-background-size: cover;
     background-position: center
 }
-.fleet .vehicles-carousel .carousel-inner .item .vehicle-outer #ford-transit,
-.fleet .vehicles-carousel .carousel-inner .slides .vehicle-outer #ford-transit {
-    background: url("../img/vehicles/ford-transit-min.jpg");
+.fleet .vehicles-carousel .carousel-inner .item .vehicle-outer #party-bus,
+.fleet .vehicles-carousel .carousel-inner .slides .vehicle-outer #party-bus {
+    background: url("../img/vehicles/party-bus-min.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
