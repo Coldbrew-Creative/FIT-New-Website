@@ -1,5 +1,7 @@
 <?php include("header.php") ?>
-        
+           
+      <!-- Service Header-->
+      <div class="col-md-12 service-header text-center" id="contact-header">
          <div class="col-md-6 col-md-offset-3">
             <h1>Contact</h1>
             <p>Make your best impression with First Impression!</p>
