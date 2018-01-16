@@ -109,7 +109,7 @@
                </div>
             </div>
          </a>
-         <a href="/prom.php">
+         <a href="/events.php">
             <div class="col-md-2 col-half-offset">
                <div class="row service-card text-center" id="service-proms">
                   <div class="service-name">
