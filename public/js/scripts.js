@@ -11,25 +11,25 @@ $(document).ready(function() {
      */
     var fleet = {
         suburban: {
-            desc: '<p id="modal-vehicle-info">Our Suburban is your go to when you don\'t want to make a scene, but arrive in sleek style. This is great for business trips, airport travel, and day to day transportation.</p>'
+            desc: ''
         },
         mkt: {
-            desc: '<p id="modal-vehicle-info">Our MKT is not only a stylish car, but it gives a modern twist to the typical black car appeal. If you want to pick up more than just a black car the MKT is the car for you.</p>'
+            desc: ''
         },
         partyBus: {
-            desc: '<p id="modal-vehicle-info">Want to take a your colleagues to a location with out all the flashy appearance? Book our Party Bus.</p>'
+            desc: ''
         },
         whiteHummer: {
-            desc: '<p id="modal-vehicle-info">Our White Hummer is not only a piece of art, but it is a classic. Want to pull up in style? Give us a call. </p>'
+            desc: ''
         },
         chrysler: {
-            desc: '<p id="modal-vehicle-info">Our Chrysler is popular for your wedding, event, or get together. We\'d love to show you around.</p>'
+            desc: ''
         },
         cadillac: {
-            desc: '<p id="modal-vehicle-info">Our Cadillac bring the old school feel, but with a stretch twist. Ride classy in today in our White Cadillac Stretch Limousine.</p>'
+            desc: ''
         },
         pinkHummer: {
-            desc: '<p id="modal-vehicle-info">Our Pink Hummer is not only flashy, but classy. It\'s great for a night out on the town when you want to get noticed. It\'s also popular for birthday parties, QuinceaÃ±era\'s, and events.</p>'
+            desc: ''
         }
     };
 
