@@ -123,7 +123,7 @@
       <div class="col-md-12 fleet text-center">
          <div class="col-md-8 col-md-offset-2">
             <h2>Fleet</h2>
-           
+            <p>We provide a large fleet of immaculate vehicles from executive sedans and SUV’s to presidential super-stretched limousines.</p>
          </div>
          <div class="col-md-12 carousel fade-carousel slide vehicles-carousel" id="vh-carousel-web" data-ride="carousel" data-interval="false">
             <!-- Wrapper for slides-->
@@ -183,6 +183,13 @@
                            </div>
                         </div>
                      </div>
+                     <div class="col-md-3 vehicle-outer text-center">
+                        <div class="col-md-12 vehicles" id="white-hummer" data-toggle="modal" data-target="#vehicle-popup">
+                           <div class="vehicle-name">
+                              <h3>White Hummer</h3>
+                           </div>
+                        </div>
+                     </div>
                   </div>
                </div>
                <!-- Left and right controls--><button class="left carousel-control btn-vehicle-scroll" id="vehicle-left-scroll" href="#vh-carousel-web" role="button" data-slide="prev"><span class="fa fa-chevron-left"></span></button><button class="right carousel-control btn-vehicle-scroll" id="vehicle-right-scroll" href="#vh-carousel-web" role="button" data-slide="next"><span class="fa fa-chevron-right"></span></button>
@@ -202,7 +209,17 @@
                      </div>
                   </div>
                </div>
-
+               <div class="col-md-12 item slides">
+                  <div class="hero">
+                     <div class="col-md-4 vehicle-outer text-center">
+                        <div class="col-md-12 vehicles" id="white-hummer" data-toggle="modal" data-target="#vehicle-popup">
+                           <div class="vehicle-name">
+                              <h3>White Hummer</h3>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
                <div class="col-md-12 item slides">
                   <div class="hero">
                      <div class="col-md-4 vehicle-outer text-center">

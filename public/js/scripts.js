@@ -29,7 +29,7 @@ $(document).ready(function() {
             desc: '<p id="modal-vehicle-info">Our Cadillac bring the old school feel, but with a stretch twist. Ride classy in today in our White Cadillac Stretch Limousine.</p>'
         },
         pinkHummer: {
-            desc: '<p id="modal-vehicle-info">Our Pink Hummer is not only flashy, but classy. It\'s great for a night out on the town when you want to get noticed. It\'s also popular for birthday parties, Quinceañera\'s, and events.</p>'
+            desc: '<p id="modal-vehicle-info">Our Pink Hummer is not only flashy, but classy. It\'s great for a night out on the town when you want to get noticed. It\'s also popular for birthday parties, QuinceaÃ±era\'s, and events.</p>'
         }
     };
 
