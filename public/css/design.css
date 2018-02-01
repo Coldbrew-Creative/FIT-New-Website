@@ -62,7 +62,7 @@
 }
 .header {
     height: 100vh;
-    background: url("../img/fit-header.jpg");
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), rgba(0, 0, 0, 0.4) url("../img/header.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

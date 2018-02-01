@@ -183,13 +183,6 @@
                            </div>
                         </div>
                      </div>
-                     <div class="col-md-3 vehicle-outer text-center">
-                        <div class="col-md-12 vehicles" id="white-hummer" data-toggle="modal" data-target="#vehicle-popup">
-                           <div class="vehicle-name">
-                              <h3>White Hummer</h3>
-                           </div>
-                        </div>
-                     </div>
                   </div>
                </div>
                <!-- Left and right controls--><button class="left carousel-control btn-vehicle-scroll" id="vehicle-left-scroll" href="#vh-carousel-web" role="button" data-slide="prev"><span class="fa fa-chevron-left"></span></button><button class="right carousel-control btn-vehicle-scroll" id="vehicle-right-scroll" href="#vh-carousel-web" role="button" data-slide="next"><span class="fa fa-chevron-right"></span></button>
