@@ -396,7 +396,7 @@
     -o-background-size: cover;
     background-position: center
 }
-.services #service-eventss {
+.services #service-events {
     background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/events.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;

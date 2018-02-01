@@ -111,9 +111,9 @@
          </a>
          <a href="/events.php">
             <div class="col-md-2 col-half-offset">
-               <div class="row service-card text-center" id="service-proms">
+               <div class="row service-card text-center" id="service-events">
                   <div class="service-name">
-                     <h2>Leasure / Events</h2>
+                     <h2 class="multiple-line">Leisure & Events</h2>
                   </div>
                </div>
             </div>
