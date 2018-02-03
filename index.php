@@ -179,7 +179,14 @@
                      <div class="col-md-3 vehicle-outer text-center">
                         <div class="col-md-12 vehicles" id="cadillac" data-toggle="modal" data-target="#vehicle-popup">
                            <div class="vehicle-name">
-                              <h3>Cadillac</h3>
+                              <h3>Cadillac Escalade</h3>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-3 vehicle-outer text-center">
+                        <div class="col-md-12 vehicles" id="escalade" data-toggle="modal" data-target="#vehicle-popup">
+                           <div class="vehicle-name">
+                              <h3>Cadillac Escalade</h3>
                            </div>
                         </div>
                      </div>

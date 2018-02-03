@@ -529,6 +529,15 @@
     -o-background-size: cover;
     background-position: center
 }
+.fleet .vehicles-carousel .carousel-inner .item .vehicle-outer #escalade,
+.fleet .vehicles-carousel .carousel-inner .slides .vehicle-outer #escalade {
+    background: url("../img/vehicles/escalade-min.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center
+}
 .fleet .btn-vehicle-scroll,
 .fleet .btn-vehicle-scroll:focus {
     position: absolute;
