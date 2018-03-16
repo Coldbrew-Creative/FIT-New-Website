@@ -19,7 +19,7 @@
   <link rel='stylesheet' href='public/css/design.css' media='all'/>
 
 </head>
-	
+	</html>
 	"
 
 
