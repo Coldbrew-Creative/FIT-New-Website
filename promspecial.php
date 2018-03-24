@@ -2,7 +2,7 @@
      
       <body>
 	  <!-- Service Header-->
-      <div class="col-md-12 service-header text-center" id="contact-header">
+      <div class="col-md-12 service-header text-center" id="prom-header">
 		 <!-- Navbar Fixed-->
 		 <nav class='navbar navbar-default'>
 			<div class='container-fluid'>
@@ -33,8 +33,8 @@
 		 </nav>     
      
         <div class="col-md-6 col-md-offset-3">
-            <h1>Contact</h1>
-            <p>Make your best impression with First Impression!</p>
+            <h1>Prom Special</h1>
+            <p>Start your night in style with First Impression!</p>
             <a class="btn btn-book scroll-to-quote" href="#">Book Now</a>
         </div>
       </div>
@@ -197,6 +197,40 @@
                <!-- Left and right controls--><button class="left carousel-control btn-vehicle-scroll" id="vehicle-left-scroll" href="#vh-carousel-mob" role="button" data-slide="prev"><span class="fa fa-chevron-left"></span></button><button class="right carousel-control btn-vehicle-scroll" id="vehicle-right-scroll" href="#vh-carousel-mob" role="button" data-slide="next"><span class="fa fa-chevron-right"></span></button>
             </div>
          </div>
+      </div>
+      <div class="col-md-12 fleet text-center">
+        <div class="col-md-8 col-md-offset-2">
+          <p>
+            20 Passenger Vehicles: White Hummer & Escalade Limousines</br>
+            6 Hours for $1,100 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $185/HR</br>
+            </br>
+            </br>
+            14 Passenger Vehicle: Pink Hummer Limousine</br>
+            6 Hours for $1,000 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $165/HR</br>
+            </br>
+            </br>
+            10 Passenger Vehicle: Chrysler 300 Limousine</br>
+            6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $115/HR</br>
+            </br>
+            </br>
+            30 Passenger Party Bus</br>
+            6 Hours for $1,350 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $225/HR</br>
+            </br>
+            </br>
+            7 Passenger SUV: Suburban or Yukon</br>
+            6 Hours for $450 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $75/HR</br>
+            </br>
+            </br>
+            4 Passenger Sedan: Lincoln MKT</br>
+            6 Hours for $390 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $65/HR</br>
+          </p>
+        </div>
       </div>
       <!-- Service Content-->
       <div class="col-md-12 contact-info">

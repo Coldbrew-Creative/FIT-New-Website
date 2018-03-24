@@ -264,6 +264,14 @@
     -o-background-size: cover;
     background-position: center
 }
+#prom-header {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/prom.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center
+}
 .service-content {
     padding: 3em 20px;
     border-bottom: 1px solid #EEE
@@ -406,7 +414,7 @@
 }
 .fleet {
     background: #FFF;
-    padding: 3em 0 7em
+    padding: 3em 0 3em
 }
 .fleet h2 {
     font: 600 26px "Open Sans", sans-serif;
