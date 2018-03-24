@@ -213,12 +213,27 @@
             </br>
             </br>
 
- <div class="col-md-12 contact-icon">
+  <div class="col-md-12 contact-info">
+         <div class="col-md-6 col-md-offset-3">
+            <div class="col-md-12">
+                <h1>Interested?</h1>
+               <p>Please get in touch with us.</p>
+            </div>
+            <div class="col-md-12 contact-icon">
                <span><img class="img-responsive" src="./public/img/icons/inbox-inv.svg"/></span>
+               <h3><a href="mailto:reservations@gofitrans.com" target="_blank">reservations@gofitrans.com</a></h3>
+            </div>
+            <div class="col-md-12 contact-icon">
+               <span><img class="img-responsive" src="./public/img/icons/location-inv.svg"/></span>
+               <h3><a href="https://goo.gl/maps/bvKsCdjYygN2" target="_blank">1250 Aviation Ave, 95110, Suite 135</a></h3>
+            </div>
+            <div class="col-md-12 contact-icon">
                 <h2> 10 Passenger Vehicle: Chrysler 300 Limousine </h2></br>
             6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $115/HR</br>
             </div>
+         </div>
+      </div>
 
               <h2> 10 Passenger Vehicle: Chrysler 300 Limousine </h2></br>
             6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
