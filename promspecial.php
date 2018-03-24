@@ -212,13 +212,20 @@
             Any additional hours are charged at a rate of: $165/HR</br>
             </br>
             </br>
-< hr width ="50%";>
+
+ <div class="col-md-12 contact-icon">
+               <span><img class="img-responsive" src="./public/img/icons/inbox-inv.svg"/></span>
+                <h2> 10 Passenger Vehicle: Chrysler 300 Limousine </h2></br>
+            6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $115/HR</br>
+            </div>
+
               <h2> 10 Passenger Vehicle: Chrysler 300 Limousine </h2></br>
             6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $115/HR</br>
             </br>
             </br>
-< hr width ="50%";>
+<hr width ="50%">
 		<h2> 30 Passenger Party Bus </h2></br>
             6 Hours for $1,350 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $225/HR</br>
