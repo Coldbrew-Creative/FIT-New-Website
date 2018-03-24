@@ -201,32 +201,32 @@
       <div class="col-md-12 fleet text-center">
         <div class="col-md-8 col-md-offset-2">
           <p>
-            20 Passenger Vehicles: White Hummer & Escalade Limousines</br>
+             <h1>  20 Passenger Vehicles: White Hummer & Escalade Limousines </h1></br>
             6 Hours for $1,100 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $185/HR</br>
             </br>
             </br>
-            14 Passenger Vehicle: Pink Hummer Limousine</br>
+              <h1> 14 Passenger Vehicle: Pink Hummer Limousine </h1></br>
             6 Hours for $1,000 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $165/HR</br>
             </br>
             </br>
-            10 Passenger Vehicle: Chrysler 300 Limousine</br>
+              <h1> 10 Passenger Vehicle: Chrysler 300 Limousine </h1></br>
             6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $115/HR</br>
             </br>
             </br>
-            30 Passenger Party Bus</br>
+<h1> 30 Passenger Party Bus </h1></br>
             6 Hours for $1,350 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $225/HR</br>
             </br>
             </br>
-            7 Passenger SUV: Suburban or Yukon</br>
+<h1>7 Passenger SUV: Suburban or Yukon</h1></br>
             6 Hours for $450 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $75/HR</br>
             </br>
             </br>
-            4 Passenger Sedan: Lincoln MKT</br>
+           <h1> 4 Passenger Sedan: Lincoln MKT </h1></br>
             6 Hours for $390 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $65/HR</br>
           </p>
