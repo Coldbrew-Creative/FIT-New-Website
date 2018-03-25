@@ -206,53 +206,68 @@
             Any additional hours are charged at a rate of: $185/HR</br>
             </br>
             </br>
-< hr width ="50%";>
+
               <h2> 14 Passenger Vehicle: Pink Hummer Limousine </h2></br>
             6 Hours for $1,000 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $165/HR</br>
             </br>
             </br>
+<!---- SEPERATION --->
 
   <div class="col-md-12 contact-info">
          <div class="col-md-6 col-md-offset-3">
-            <div class="col-md-12">
-                <h1>Interested?</h1>
-               <p>Please get in touch with us.</p>
+            
+            <div class="col-md-12 contact-icon">
+              
+               <h3> 20 Passenger Vehicles: White Hummer & Escalade Limousines </h3></br>
+            6 Hours for $1,100 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $185/HR</br>
+
             </div>
             <div class="col-md-12 contact-icon">
-               <span><img class="img-responsive" src="./public/img/icons/inbox-inv.svg"/></span>
-               <h3><a href="mailto:reservations@gofitrans.com" target="_blank">reservations@gofitrans.com</a></h3>
+          
+              <h3> 30 Passenger Party Bus </h3></br>
+            6 Hours for $1,350 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $225/HR</br>
+
             </div>
             <div class="col-md-12 contact-icon">
-               <span><img class="img-responsive" src="./public/img/icons/location-inv.svg"/></span>
-               <h3><a href="https://goo.gl/maps/bvKsCdjYygN2" target="_blank">1250 Aviation Ave, 95110, Suite 135</a></h3>
+                     <h3> 14 Passenger Vehicle: Pink Hummer Limousine </h3></br>
+            6 Hours for $1,000 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $165/HR</br>
             </div>
-            <div class="col-md-12 contact-icon">
-                <h2> 10 Passenger Vehicle: Chrysler 300 Limousine </h2></br>
+  <div class="col-md-12 contact-icon">
+                <h3> 10 Passenger Vehicle: Chrysler 300 Limousine </h3></br>
             6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $115/HR</br>
+            </div>
+  <div class="col-md-12 contact-icon">
+                 <h3>  20 Passenger Vehicles: White Hummer & Escalade Limousines </h3></br>
+            6 Hours for $1,100 (that's an all-inclusive rate minus driver gratuity)</br>
+            Any additional hours are charged at a rate of: $185/HR</br>
             </div>
          </div>
       </div>
 
+<!---SEPERATION -->
               <h2> 10 Passenger Vehicle: Chrysler 300 Limousine </h2></br>
             6 Hours for $700 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $115/HR</br>
             </br>
             </br>
-<hr width ="50%">
+
 		<h2> 30 Passenger Party Bus </h2></br>
             6 Hours for $1,350 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $225/HR</br>
             </br>
             </br>
-< hr width ="50%";>
+
 		<h2>7 Passenger SUV: Suburban or Yukon</h2></br>
             6 Hours for $450 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $75/HR</br>
             </br>
             </br>
-		< hr width ="50%";>
+
            <h2> 4 Passenger Sedan: Lincoln MKT </h2></br>
             6 Hours for $390 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $65/HR</br>
