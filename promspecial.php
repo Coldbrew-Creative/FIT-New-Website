@@ -33,7 +33,7 @@
 		 </nav>     
      
         <div class="col-md-6 col-md-offset-3">
-            <h1>Prom Special</h1>
+            <h1>Prom Specials</h1>
             <p>Start your night in style with First Impression!</p>
             <a class="btn btn-book scroll-to-quote" href="#">Book Now</a>
         </div>
@@ -258,7 +258,7 @@
             </div>
 
  <div class="col-md-12 contact-icon">
-	 <b<<h3> 4 Passenger Sedan: Lincoln MKT </h3></b></br>
+	 <b><h3> 4 Passenger Sedan: Lincoln MKT </h3></b></br>
             6 Hours for $390 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $65/HR</br>
             </div>
