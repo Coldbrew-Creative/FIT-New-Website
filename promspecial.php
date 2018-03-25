@@ -204,7 +204,12 @@
          <div class="col-md-6 col-md-offset-3">
 		 
 		  <div class="col-md-12">
-			  <h1>Want to Book one of our specials?</h1> </br> <h2>Call Us 408-230-6622</h2>
+			  <h1>Book Today!</h1> </br>
+ <div class="col-md-12 contact-icon">
+               <span><img class="img-responsive" src="./public/img/icons/call-inv.svg"/></span>
+               <h3>Call Us Today - <a href="tel:+4082306622" target="_blank">408-230-6622</a></h3>
+            </div>
+
                
             </div>
 		  <div class="col-md-12 contact-icon">
