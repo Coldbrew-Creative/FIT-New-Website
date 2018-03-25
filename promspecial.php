@@ -204,12 +204,12 @@
          <div class="col-md-6 col-md-offset-3">
 		 
 		  <div class="col-md-12">
-                <h1>Our Specials</h1>
+                <h1>Our Specials - Call Us 408-230-6622</h1>
                
             </div>
 		  <div class="col-md-12 contact-icon">
               
-               <h3> 20 Passenger Vehicles: White Hummer & Escalade Limousines </h3></br>
+               <h2> 20 Passenger Vehicles: White Hummer & Escalade Limousines </h2></br>
             6 Hours for $1,100 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $185/HR</br>
 
@@ -217,7 +217,7 @@
 
 <div class="col-md-12 contact-icon">
           
-              <h3> 30 Passenger Party Bus </h3></br>
+              <h1> 30 Passenger Party Bus </h1></br>
             6 Hours for $1,350 (that's an all-inclusive rate minus driver gratuity)</br>
             Any additional hours are charged at a rate of: $225/HR</br>
 
