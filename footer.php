@@ -2,16 +2,7 @@
 
 	echo "
 	
-	/**      <!-- Get Quote Today -->
-      <div class='col-md-12 get-quote text-center'>
-         <div class='col-md-8 col-md-offset-2'>
-            <h2>Get a Quote Today</h2>
-            <!-- Limo Anywhere Plugin--><a href='https://book.mylimobiz.com/v4/bestlimousineservice' data-ores-widget='website' data-ores-alias='bestlimousineservice'>Online Reservations</a><script type='text/javascript' src='https://book.mylimobiz.com/v4/widgets/widget-loader.js'></script>
-         </div>
-      </div>
-**/
-
-      <!-- Footer-->
+	      <!-- Footer-->
       <footer class='col-md-12 text-center'>
          <div class='col-md-8 col-md-offset-2'><img class='logo' src='public/img/logo.png'/></div>
          <div class='col-md-12'>
