@@ -5,19 +5,11 @@
 	<!doctype html>
 <html>
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
 
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-58063008-1');
-</script>
+<?php include_once("analyticstracking.php") ?>
 
 
 	
-
   <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
   <meta charset='UTF-8'/>
   <!-- Favicon and Title-->
