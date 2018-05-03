@@ -343,7 +343,7 @@
          <div class="col-md-4 col-md-offset-4">
             <h4>We Specialize</h4>
             <h2>In FBO Services</h2>
-            <p>Located in Atlantic Aviation Lobby</p>
+            <p>Located in <br /> Atlantic Aviation Lobby</p>
          </div>
       </div>
 
