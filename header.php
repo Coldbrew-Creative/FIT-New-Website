@@ -3,8 +3,9 @@
 
 	echo "
 	
-	<!doctype html>
+	
 <html>
+<!doctype html>
 <head>
 
 
