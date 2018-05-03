@@ -159,7 +159,7 @@
 }
 .service-header {
     padding: 0 0 10em;
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/corporate.jpg");
+    background: linear-gradient(10deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), rgba(0, 0, 0, 0.6) url("../img/services/corporate.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -209,7 +209,7 @@
     background-position: center
 }
 #airport-header {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/fbo-services.jpg");
+    background: linear-gradient(10deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), rgba(0, 0, 0, 0.6) url("../img/services/fbo-services.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -217,7 +217,7 @@
     background-position: center
 }
 #corporate-header {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/corporate.jpg");
+    background: linear-gradient(10deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), rgba(0, 0, 0, 0.6) url("../img/services/corporate.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -225,7 +225,7 @@
     background-position: center
 }
 #wedding-header {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/wedding.jpg");
+    background: linear-gradient(10deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), rgba(0, 0, 0, 0.6) url("../img/services/wedding.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -233,7 +233,7 @@
     background-position: center
 }
 #wine-header {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/wine.jpg");
+    background: linear-gradient(10deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), rgba(0, 0, 0, 0.6) url("../img/services/wine.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -265,7 +265,7 @@
     background-position: center
 }
 #prom-header {
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(0, 0, 0, 0.6) url("../img/services/prom.jpg");
+    background: linear-gradient(10deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), rgba(0, 0, 0, 0.6) url("../img/services/prom.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
