@@ -48,7 +48,13 @@
   <!-- MY CSS FILE-->
   <link rel='stylesheet' href='/public/css/design.css' media='all'/>
 	
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-58063008-1');
+</script>
 
 </head>
 	</html>
