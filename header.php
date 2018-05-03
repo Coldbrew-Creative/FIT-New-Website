@@ -1,3 +1,4 @@
+<?php include_once("analyticstracking.php") ?>
 <?php
 
 	echo "
@@ -6,7 +7,7 @@
 <html>
 <head>
 
-<?php include_once("analyticstracking.php") ?>
+
 
 
 	
