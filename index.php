@@ -121,7 +121,7 @@
       <div class="col-md-12 fleet text-center">
          <div class="col-md-8 col-md-offset-2">
             <h2>Fleet</h2>
-            <p>We provide a large fleet of immaculate vehicles from executive sedans and SUV’s to presidential super-stretched limousines.</p>
+            <p>We provide a large fleet of immaculate vehicles from executive sedans and <br />SUV’s to presidential super-stretched limousines.</p>
          </div>
          <div class="col-md-12 carousel fade-carousel slide vehicles-carousel" id="vh-carousel-web" data-ride="carousel" data-interval="false">
             <!-- Wrapper for slides-->
