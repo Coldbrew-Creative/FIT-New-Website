@@ -5,6 +5,18 @@
 	<!doctype html>
 <html>
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58063008-1">
+
+</script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58063008-1');
+</script>
 
 
 	
@@ -48,14 +60,6 @@
   <!-- MY CSS FILE-->
   <link rel='stylesheet' href='/public/css/design.css' media='all'/>
 	
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-58063008-1');
-</script>
-
 </head>
 	</html>
 	"
