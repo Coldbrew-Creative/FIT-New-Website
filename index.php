@@ -34,7 +34,7 @@
 			</div>
 		 </nav>
      	
-         <div class="col-md-10 col-md-offset-1 header-info text-right">
+         <div class="col-md-10 col-md-offset-1 header-info text-left">
           
             <!-- Script file for Sumo -->
 			<script src='//load.sumome.com/' data-sumo-site-id='ef5fbf833ed979bd2e875143df42cbe264d9891eab2ea23215b15ee6709f59fd' async='async'></script>
