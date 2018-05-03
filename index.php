@@ -68,18 +68,7 @@
       <div class="col-md-12 services text-center">
  	     <div class="col-md-8 col-md-offset-2">
 			<h2>Services</h2>
-			 <div style="margin: auto; width: 50%;padding: 10px;text-align: left; font: 'Open Sans,sans-serif';font-size:14px;">
-			 	<p style="color:white;">We offer a wide variety of luxury vehicles; from executive sedans, luxury SUV’s, stretch limousines, party busses and high-top vans. First Impression Transportation is here for all your transportation needs.</p>
-				<ul style="color:white;list-style-position: inside;">
-					<li>Leisure</li>
-					<li>Weddings</li>
-					<li>Business Travel </li> 
-					<li>Birthdays/Quinceañera</li>
-					<li>Airport Transfers </li>
-					<li>Bachelor and Bachelorette Parties</li>
-					<li>Wine Tours</li>
-				</ul>
-			 </div>
+			
          </div>
          
          <a href="/corporate.php">
