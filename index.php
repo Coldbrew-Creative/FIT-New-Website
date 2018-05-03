@@ -46,7 +46,7 @@
          </div>
       </div>
       <!-- Our Story Section-->
-      <div class="col-md-12 our-story">
+ <!--     <div class="col-md-12 our-story">
          <div class="col-md-8 col-md-offset-2">
             <h2 class="text-center">About Us</h2>
             <p>First Impression Transportation (FIT) is a Bay Area based company that is known for professionalism, safety, comfort and class. We are the premier limousine car service in Northern California and our goal is to exceed your expectations every time. We provide all of our customers with a wide variety of luxury vehicles. All vehicles are equipped with a state of the art tracking system and are all serviced and maintained by certified mechanics. Utilizing an extensive preventive maintenance program we assure your trip will be a safe and enjoyable one.</p> <br/><br/>
@@ -55,6 +55,15 @@
          <br>
          </div>
       </div>
+//-->
+	<!-- Limos Anywhere Add on -->	
+		<div class='col-md-12 get-quote text-center'>
+         <div class='col-md-8 col-md-offset-2'>
+            <h2>Get a Quote Today</h2>
+            <!-- Limo Anywhere Plugin--><a href='https://book.mylimobiz.com/v4/bestlimousineservice' data-ores-widget='website' data-ores-alias='bestlimousineservice'>Online Reservations</a><script type='text/javascript' src='https://book.mylimobiz.com/v4/widgets/widget-loader.js'></script>
+         </div>
+      </div>
+		
       <!-- Services Section-->
       <div class="col-md-12 services text-center">
  	     <div class="col-md-8 col-md-offset-2">
