@@ -1020,3 +1020,75 @@ footer .nla #nla-aff {
     }
 }
 /*# sourceMappingURL=design.css.map */
+
+/* Add on CSS */
+
+.contact-container {
+  margin: 1rem 8rem;
+  width: 400px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.616);
+  padding: 30px;
+  transform: translate(0, 15%); }
+
+.contact-logo {
+  position: absolute;
+  height: 4.5rem;
+  top: 30px;
+  right: 60px; }
+
+.contact-form-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center; }
+
+.contact-heading {
+  margin-top: 1rem;
+  color: white;
+  text-align: left;
+  font-size: 1.4rem;
+  letter-spacing: .1rem; }
+
+.contact-description {
+  margin-bottom: 1rem;
+  color: white;
+  text-align: left;
+  font-size: 2rem;
+  letter-spacing: .15rem; }
+
+.contact-field, .contact-message {
+  padding: 0rem 1rem;
+  margin: .5rem 0;
+  height: 2rem;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.507);
+  font-size: 0.75rem; }
+  .contact-field::placeholder, .contact-message::placeholder {
+    color: rgba(0, 0, 0, 0.307); }
+  .contact-field:focus, .contact-field:hover, .contact-message:focus, .contact-message:hover {
+    outline: none;
+    border: 1px solid #ffc400; }
+    .contact-field:focus::placeholder, .contact-field:hover::placeholder, .contact-message:focus::placeholder, .contact-message:hover::placeholder {
+      color: #575757; }
+
+.contact-button {
+  background-color: #ffc400;
+  padding: 1rem 0rem;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 0;
+  color: white;
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  white-space: nowrap;
+  transition: box-shadow 0.75s ease; }
+  .contact-button:hover {
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.347); }
+
+@media only screen and (max-width: 768px) {
+  .contact-container {
+    width: 300px; } }
