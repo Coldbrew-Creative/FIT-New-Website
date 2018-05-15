@@ -100,7 +100,7 @@
   margin-bottom: 1rem;
   color: white;
   text-align: left;
-  font-size: 5rem;
+  font-size: 2rem;
   letter-spacing: .15rem; }
 
 .contact-field, .contact-message {
@@ -111,7 +111,7 @@
   border-left: 0px;
   border-right: 0px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.507);
-  font-size: 3rem; }
+  font-size: 1.5rem; }
   .contact-field::placeholder, .contact-message::placeholder {
     color: rgba(0, 0, 0, 0.307); }
   .contact-field:focus, .contact-field:hover, .contact-message:focus, .contact-message:hover {
@@ -127,7 +127,7 @@
   border: none;
   border-radius: 0;
   color: white;
-  font-size: 3rem;
+  font-size: 2 \rem;
   text-transform: uppercase;
   letter-spacing: .15rem;
   white-space: nowrap;
