@@ -59,7 +59,7 @@
 	<!-- Limos Anywhere Add on -->	
 		<div class='col-md-12 get-quote text-center'>
          <div class='col-md-8 col-md-offset-2'>
-            <h2>Get a Quote Today</h2>
+            <h2>Get Your Quote Today</h2>
             <!-- Limo Anywhere Plugin-->
 		 
 <!-- <a href='https://book.mylimobiz.com/v4/bestlimousineservice' data-ores-widget='website' data-ores-alias='bestlimousineservice'>Online Reservations</a><script type='text/javascript' src='https://book.mylimobiz.com/v4/widgets/widget-loader.js'></script> -->
@@ -67,11 +67,11 @@
 		 <!-- End Limos Anywhere Plugin -->
 		 
 		 <!-- New Contact Form -->
-		 
+		  <div class="col-md-6 col-md-offset-3">
 		  <div class="col-md-12 contact-icon">
               
-               
-		  <form class="contact-form-container" method="POST" action="https://formspree.io/reservations@gofitrans.com">
+            
+		  <form method="POST" action="https://formspree.io/reservations@gofitrans.com">
 			  <input type="hidden" name="_subject" value="Website Contact Form" />
 			  <input type="hidden" name="_cc" value="mike@coldbrewcreative.com,jnewborn@exposyour.com" />
 			    <input type="text" name="Fname" placeholder="First Name">
@@ -81,9 +81,10 @@
 			    <input  type="text" name="destination" placeholder="Destination">
 			    <input  type="text-area" name="details" placeholder="More Details">
 			  
-			    <button type="submit">Send Inquiries</button>
+			    <button type="submit">Send Inquiry</button>
 			  </form> 
 		</div>
+		 </div>
 		 <!-- End Contact Form-->
 		 
          </div>
