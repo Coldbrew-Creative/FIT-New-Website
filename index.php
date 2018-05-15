@@ -79,12 +79,6 @@
   padding: 30px;
   transform: translate(0, 15%); }
 
-.contact-logo {
-  position: absolute;
-  height: 4.5rem;
-  top: 30px;
-  right: 60px; }
-
 .contact-form-container {
   display: flex;
   flex-direction: column;
@@ -107,34 +101,43 @@
 .contact-field, .contact-message {
   padding: 0rem 1rem;
   margin: .5rem 0;
-  height: 2rem;
+  height: 3rem;
   border-top: 0px;
   border-left: 0px;
   border-right: 0px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.507);
-  font-size: 1.5rem; }
-  .contact-field::placeholder, .contact-message::placeholder {
-    color: rgba(0, 0, 0, 0.307); }
-  .contact-field:focus, .contact-field:hover, .contact-message:focus, .contact-message:hover {
-    outline: none;
-    border: 1px solid #ffc400; }
-    .contact-field:focus::placeholder, .contact-field:hover::placeholder, .contact-message:focus::placeholder, .contact-message:hover::placeholder {
-      color: #575757; }
+  font-size: 1.5rem; 
+}
+.contact-field::placeholder, .contact-message::placeholder {
+  color: rgba(0, 0, 0, 0.307); 
+}
+.contact-field:focus, .contact-field:hover, .contact-message:focus, .contact-message:hover {
+  outline: none;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.507);
+}
+.contact-field:focus::placeholder, .contact-field:hover::placeholder, .contact-message:focus::placeholder, .contact-message:hover::placeholder {
+  color: #575757; 
+}
 
 .contact-button {
-  background-color: #ffc400;
+  background-color: gray;
   padding: 1rem 0rem;
   margin-top: 1rem;
   border: none;
   border-radius: 0;
   color: white;
-  font-size: 2 \rem;
+  font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: .15rem;
   white-space: nowrap;
-  transition: box-shadow 0.75s ease; }
-  .contact-button:hover {
-    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.347); }
+  transition: box-shadow 0.5s ease; 
+}
+.contact-button:hover {
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.347); 
+}
 		 </style>
 <!-- I'm wild for this one -->
 		 <!-- New Contact Form -->
