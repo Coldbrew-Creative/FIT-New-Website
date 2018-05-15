@@ -67,7 +67,7 @@
 		 <!-- End Limos Anywhere Plugin -->
 		 
 		 <!-- insert inline css -->
-/* Add on CSS */
+
 <style>
 .contact-container {
   margin: 1rem 8rem;
@@ -93,7 +93,7 @@
   margin-top: 1rem;
   color: white;
   text-align: left;
-  font-size: 1.4rem;
+  font-size: 10px;
   letter-spacing: .1rem; }
 
 .contact-description {
