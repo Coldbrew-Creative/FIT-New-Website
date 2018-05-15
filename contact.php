@@ -42,7 +42,7 @@
       <div class="col-md-12 contact-info">
          <div class="col-md-6 col-md-offset-3">
             <div class="col-md-12">
-               <p>Please get in touch with us.</p>
+               <p>Get in touch with us.</p>
             </div>
             <div class="col-md-12 contact-icon">
                <span><img class="img-responsive" src="./public/img/icons/inbox-inv.svg"/></span>
