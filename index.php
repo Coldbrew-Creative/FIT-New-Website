@@ -60,7 +60,24 @@
 		<div class='col-md-12 get-quote text-center'>
          <div class='col-md-8 col-md-offset-2'>
             <h2>Get a Quote Today</h2>
-            <!-- Limo Anywhere Plugin--><a href='https://book.mylimobiz.com/v4/bestlimousineservice' data-ores-widget='website' data-ores-alias='bestlimousineservice'>Online Reservations</a><script type='text/javascript' src='https://book.mylimobiz.com/v4/widgets/widget-loader.js'></script>
+            <!-- Limo Anywhere Plugin-->
+		 
+<!-- <a href='https://book.mylimobiz.com/v4/bestlimousineservice' data-ores-widget='website' data-ores-alias='bestlimousineservice'>Online Reservations</a><script type='text/javascript' src='https://book.mylimobiz.com/v4/widgets/widget-loader.js'></script> -->
+		 
+		 <!-- End Limos Anywhere Plugin -->
+		 
+		 <!-- New Contact Form -->
+		  <form class="contact-form-container" method="POST" action="https://formspree.io/shadim@gofitrans.com">
+			    <input type="text" name="name" placeholder="First Name">
+			    <input  type="text" name="name" placeholder="Last Name">
+			    <input  type="email" name="email" placeholder="Email">
+			    <input  type="text" name="phone" placeholder="Phone Number">
+			    <input  type="text" name="destination" placeholder="Destination">
+			    <input  type="text-area" name="details" placeholder="More Details">
+			    <button type="submit">Send Inquiries</button>
+			  </form> 
+		 <!-- End Contact Form-->
+		 
          </div>
       </div>
 		
