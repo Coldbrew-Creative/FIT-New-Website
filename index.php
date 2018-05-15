@@ -67,15 +67,23 @@
 		 <!-- End Limos Anywhere Plugin -->
 		 
 		 <!-- New Contact Form -->
-		  <form class="contact-form-container" method="POST" action="https://formspree.io/shadim@gofitrans.com">
-			    <input type="text" name="name" placeholder="First Name">
-			    <input  type="text" name="name" placeholder="Last Name">
-			    <input  type="email" name="email" placeholder="Email">
+		 
+		  <div class="col-md-12 contact-icon">
+              
+               
+		  <form class="contact-form-container" method="POST" action="https://formspree.io/reservations@gofitrans.com">
+			  <input type="hidden" name="_subject" value="Website Contact Form" />
+			  <input type="hidden" name="_cc" value="mike@coldbrewcreative.com,jnewborn@exposyour.com" />
+			    <input type="text" name="Fname" placeholder="First Name">
+			    <input  type="text" name="Lname" placeholder="Last Name">
+			    <input  type="email" name="_replyto" placeholder="Email">
 			    <input  type="text" name="phone" placeholder="Phone Number">
 			    <input  type="text" name="destination" placeholder="Destination">
 			    <input  type="text-area" name="details" placeholder="More Details">
+			  
 			    <button type="submit">Send Inquiries</button>
 			  </form> 
+		</div>
 		 <!-- End Contact Form-->
 		 
          </div>
