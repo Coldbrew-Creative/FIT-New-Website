@@ -59,7 +59,8 @@
 	<!-- Limos Anywhere Add on -->	
 		<div class='col-md-12 get-quote text-center'>
          <div class='col-md-8 col-md-offset-2'>
-            <h2>Get Your Quote Today</h2>
+            <h2>Book Your Limo Today</h2>
+	
             <!-- Limo Anywhere Plugin-->
 		 
 <!-- <a href='https://book.mylimobiz.com/v4/bestlimousineservice' data-ores-widget='website' data-ores-alias='bestlimousineservice'>Online Reservations</a><script type='text/javascript' src='https://book.mylimobiz.com/v4/widgets/widget-loader.js'></script> -->
