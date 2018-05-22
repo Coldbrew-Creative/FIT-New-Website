@@ -26,7 +26,7 @@
             </div>
             <div class='col-md-12'>
                <div class='nla'><img id='nla-aff' src='public/img/nla.png'/></div>
-               <p class='copyright'>© First Impression Transportation 2017</p>
+               <p class='copyright'>© First Impression Transportation 2018</p>
             </div>
          </div>
       </footer>
