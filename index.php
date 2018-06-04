@@ -145,9 +145,9 @@
 		  <div class="col-md-12 contact-icon">
               
             
-		  <form class="contact-form-container" method="POST" action="https://formspree.io/reservations@gofitrans.com">
+		  <form class="contact-form-container" method="POST" action="https://formspree.io/mike@coldbrewcreative.com">
 			  <input type="hidden" name="_subject" value="Website Contact Form" />
-			  <input type="hidden" name="_cc" value="mike@coldbrewcreative.com,jnewborn@exposyour.com" />
+			  <input type="hidden" name="_cc" value="reservations@gofitrans.com,mike@coldbrewcreative.com,jnewborn@exposyour.com" />
 			    <input class="contact-field" type="text" name="Fname" placeholder="First Name">
 			    <input class="contact-field" type="text" name="Lname" placeholder="Last Name">
 			    <input class="contact-field" type="email" name="_replyto" placeholder="Email">
