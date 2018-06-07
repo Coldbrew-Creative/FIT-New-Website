@@ -59,7 +59,7 @@
 	<!-- Limos Anywhere Add on -->	
 		<div class='col-md-12 get-quote text-center'>
          <div class='col-md-8 col-md-offset-2'>
-            <h2>Book Your Limo Today</h2>
+            <h2>Get an Instant Quote NOW!</h2>
 	
             <!-- Limo Anywhere Plugin-->
 		 
