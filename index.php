@@ -10,7 +10,7 @@
 			<div class='container-fluid'>
 			   <div class='col-md-12 navbar-socials'>
 				  <ul class='nav navbar-nav navbar-right'>
-					  <li><span class='call'>Call us at:</span><span class='number'><script async src=“http://reports.exposyour.com/Client/Phone/201608/?CID=206289“>408-230-6622</script></span></li>
+					  <li><span class='call'>Call us at:</span><span class='number'><script async src=“http://reports.exposyour.com/Client/Phone/201608/?CID=150958“>408-230-6622</script></span></li>
 					  <li><a class='btn btn-social' href='#'><span class='fa fa-facebook'></span></a></li>
 					  <li><a class='btn btn-social' href='#'><span class='fa fa-linkedin'></span></a></li>
 					  <li><a class='btn btn-social' href='#'><span class='fa fa-google-plus'></span></a></li>
