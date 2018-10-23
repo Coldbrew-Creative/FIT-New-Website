@@ -30,6 +30,7 @@
 				  <ul class='nav navbar-nav navbar-right'>
 					 <li><a class='active' href='/'>Home</a></li>
 					 <li><a href='/contact.php'>Contact</a></li>
+					  <li><a href='/blog'>Blog</a></li>
 				  </ul>
 			   </div>
 			</div>
